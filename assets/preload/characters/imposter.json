@@ -8,81 +8,70 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "Idle",
+			"name": "imposter_idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				90,
-				-20
+				101,
+				-10
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Sing Left",
+			"name": "imposter_left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				70,
-				-110
+				23,
+				-45
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "Sing Down",
+			"name": "imposter_down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				50,
-				30
+				-9,
+				47
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "Sing Up",
+			"name": "imposter_up",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-10,
-				-30
+				11,
+				31
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Sing Right",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				90,
-				-20
-			],
-			"anim": "singLEFT-alt",
-			"fps": 24,
-			"name": "Ugh",
+			"name": "imposter_right",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Tankman",
+	"image": "characters/imposter",
 	"position": [
-		-90,
-		180
+		40,
+		530
 	],
-	"healthicon": "tankman",
+	"healthicon": "amogo",
 	"flip_x": false,
 	"healthbar_colors": [
-		225,
-		225,
-		225
+		255,
+		0,
+		0
 	],
 	"camera_position": [
 		30,
-		90
+		70
 	],
 	"sing_duration": 6.1,
 	"scale": 1
