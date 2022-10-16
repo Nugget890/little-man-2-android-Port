@@ -1,0 +1,44 @@
+{
+	"song": {
+		"speed": 3.8,
+		"stage": "bigman",
+		"player1": "bf-night",
+		"player2": "big-man",
+		"player3": null,
+		"events": [
+			[
+				5190.9307875895,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pop"
+					],
+					[
+						"Play Animation",
+						"pop",
+						"BF"
+					]
+				]
+			],
+			[
+				6694.5107398568,
+				[
+					[
+						"Play Animation",
+						"sponmgbo",
+						"bf"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 419,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "big-man"
+	}
+}
